@@ -1,7 +1,7 @@
 # Fortnite Builds
-Popular Fortnite builds hosting by Kovryn. 
+Popular Fortnite builds hosted by Kovryn. 
 
-## Want to help me cover storage costs? Donate [here!](https://paypal.me/blksservers?country.x=US&locale.x=en_US)
+## Want to help me cover storage costs? Donate [here!](https://paypal.me/kovryn?country.x=ZA&locale.x=en_US)
 
 ## Contact.
 
