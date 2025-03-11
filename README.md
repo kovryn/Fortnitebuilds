@@ -242,4 +242,4 @@ My Discord server: https://discord.gg/5eRF9vyruj (Easiest way for you to contact
 | 21.50-CL-21657658 | 5.0.1-21657658 | N/A |
 
 # Credits
-simplyblk for github layout
+simplyblk for github layout.
